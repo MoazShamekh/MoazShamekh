@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there, I'm Moaz Shamekh
 
-<!--
-**MoazShamekh/MoazShamekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a **Computer Science student** passionate about **Cybersecurity**.  
+🎯 Currently building my skills step by step — learning, practicing, and sharing along the way.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Learning Now
+
+- 🐞 Bug Bounty Hunting (Web App Security, Recon, XSS, etc.)
+- 🔒 Cybersecurity Labs on TryHackMe & Hack The Box
+- 📜 Linux, Networking, Bash Scripting
+- 🐍 Python for automation
+- ✍️ Content creation for beginners in security
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/moaz-shamekh)
+- 📧 Email: moazshamekh@gmail.com 
+
+---
+
+## ⚡ Fun Facts
+
+- ✨ I'm using Obsidian to organize everything I learn
+- 🎥 Among my hobbies are graphic design and video editing
+
+---
+
+> 💡 *“The best way to learn is by doing — and then sharing what you’ve learned.”*
