@@ -11,7 +11,6 @@
 - 🔒 Cybersecurity Labs on TryHackMe & Hack The Box
 - 📜 Linux, Networking, Bash Scripting
 - 🐍 Python for automation
-- ✍️ Content creation for beginners in security
 
 ---
 
@@ -19,13 +18,6 @@
 
 - 🔗 [LinkedIn](https://linkedin.com/in/moaz-shamekh)
 - 📧 Email: moazshamekh@gmail.com 
-
----
-
-## ⚡ Fun Facts
-
-- ✨ I'm using Obsidian to organize everything I learn
-- 🎥 Among my hobbies are graphic design and video editing
 
 ---
 
